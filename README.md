@@ -1,6 +1,9 @@
-# Kevin Lee — Agentic AI for Space Systems
+# Welcome to Kevin Lee's GitHub Page
 
-**Agentic Orchestration · Variational Autoencoder · Scientific Reasoning · Time Series Modeling · Quantative Research**
+I built **agentic AI** and solved complex **time-series** and **signal process** problems for NASA's and Lockheed Martin's space and earth science missions. 
+
+- **Core:** Agentic Orchestration, Quantative Research, Variational Autoencoder, Scientific Reasoning, Anomaly Detection, State Estimation 
+- **Tooling:** Python / MATLAB / C++ / R
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-percept--lee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/percept-lee/) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-uLh6KB8AAAAJ-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=uLh6KB8AAAAJ&hl=en&oi=sra) [![CV](https://img.shields.io/badge/CV-PDF-555?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV.pdf)
 
@@ -17,7 +20,7 @@
 | Project | Description | Link |
 |---|---|---|
 | SCADE | Real-time solar-wind anomaly detection | repo |
-| Reasoning With A Star: Agentic benchmark for NASA's Heliophysics | Benchmark and evaluation | ![repo](https://huggingface.co/datasets/SpaceML/ReasoningWithAStar) |
+| Reasoning With A Star: Agentic benchmark for NASA's Heliophysics | Benchmark and evaluation | [![repo](https://huggingface.co/datasets/SpaceML/ReasoningWithAStar)] |
 
 ---
 
