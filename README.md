@@ -10,9 +10,9 @@ I built **agentic AI** and solved complex **time-series** and **signal process**
 ---
 
 ## Research Spotlight
-- **Agentic Orchestration System for Heliophysics Tasks** (NeurIPS workshop)
-- **Reasoning With a Star: Heliophysics dataset + agentic benchmark** (NeurIPS workshop)
-- **Telemetry and time-series anomaly detection for space missions**
+- **Agentic Orchestration System for Heliophysics Tasks** [![NeurIPS AI4Science](https://neurips.cc/virtual/2025/loc/san-diego/125788)]
+- **Reasoning With a Star: Heliophysics dataset and agentic benchmark** [![NeurIPS ML4PhysicalSciences](https://neurips.cc/virtual/2025/loc/san-diego/123037)]
+- **Telemetry and time-series anomaly detection for space missions** [![NASA-JPL](https://arxiv.org/abs/2412.16375)]
 
 ---
 
