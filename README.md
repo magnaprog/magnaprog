@@ -14,13 +14,15 @@
 ---
 
 ## Featured Projects
-| Project | What it shows | Quick link |
+| Project | Description | Link |
 |---|---|---|
 | SCADE | Real-time solar-wind anomaly detection | repo |
-| Heliophysics problem sets | Benchmarking + evaluation harness | repo |
+| Reasoning With A Star: Agentic benchmark for NASA's Heliophysics | Benchmark and evaluation | ![repo](https://huggingface.co/datasets/SpaceML/ReasoningWithAStar) |
 
 ---
 
 ## Current Focus
-- Building reproducible agentic evaluation (unit-aware scoring, structured outputs)
+- Quant trading and research
+- Signal processing with AI/ML and tradictional algorithms
+- Agentic systems and platforms
 - Open to: research collabs and industry roles in AI/ML
