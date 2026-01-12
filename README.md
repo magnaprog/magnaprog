@@ -10,17 +10,17 @@ I built **agentic AI** and solved complex **time-series** and **signal process**
 ---
 
 ## Research Spotlight
-- **Agentic Orchestration System for Heliophysics Tasks** [![NeurIPS AI4Science](https://neurips.cc/virtual/2025/loc/san-diego/125788)]
-- **Reasoning With a Star: Heliophysics dataset and agentic benchmark** [![NeurIPS ML4PhysicalSciences](https://neurips.cc/virtual/2025/loc/san-diego/123037)]
-- **Telemetry and time-series anomaly detection for space missions** [![NASA-JPL](https://arxiv.org/abs/2412.16375)]
+- **Agentic Orchestration System for Heliophysics Tasks** [![NeurIPS](https://img.shields.io/badge/NeurIPS-AI4Science-555?style=flat-square)](https://neurips.cc/virtual/2025/loc/san-diego/125788)
+- **Reasoning With a Star: Heliophysics dataset and agentic benchmark** [![NeurIPS](https://img.shields.io/badge/NeurIPS-ML4PhysicalSciences-555?style=flat-square)](https://neurips.cc/virtual/2025/loc/san-diego/123037)
+- **Telemetry and time-series anomaly detection for space missions**  [![arXiv](https://img.shields.io/badge/arXiv-2412.16375-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2412.16375)
 
 ---
 
 ## Featured Projects
 | Project | Description | Link |
 |---|---|---|
-| SCADE | Real-time solar-wind anomaly detection | repo |
-| Reasoning With A Star: Agentic benchmark for NASA's Heliophysics | Benchmark and evaluation | [![repo](https://huggingface.co/datasets/SpaceML/ReasoningWithAStar)] |
+| SCADE | Real-time solar-wind anomaly detection | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/magnaprog/SCADE) |
+| Reasoning With A Star: Agentic benchmark for NASA's Heliophysics | Benchmark and evaluation | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-FFCC4D?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/datasets/SpaceML/ReasoningWithAStar) |
 
 ---
 
