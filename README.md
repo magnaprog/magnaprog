@@ -21,7 +21,7 @@ I built **agentic AI** and solved complex **time-series** and **signal process**
 ## Featured Projects
 | Project | Description | Link |
 |---|---|---|
-| SCADE | Real-time solar-wind anomaly detection | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/magnaprog/SCADE) |
+| PISCES | Real-time solar-wind anomaly detection | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/magnaprog/PISCES) |
 | Reasoning With A Star: Agentic benchmark for NASA's Heliophysics | Benchmark and evaluation | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-FFCC4D?style=flat-square&logo=huggingface&logoColor=FF9D00)](https://huggingface.co/datasets/SpaceML/ReasoningWithAStar) |
 
 ---
