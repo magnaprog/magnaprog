@@ -11,11 +11,11 @@ I build **agentic AI** and solve complex **time-series** and **signal processing
 
 ## Research Spotlight
 - **Agentic Orchestration System for Heliophysics Tasks** [![NeurIPS](https://img.shields.io/badge/NeurIPS-AI4Science-7B61FF?style=flat-square)](https://neurips.cc/virtual/2025/loc/san-diego/125788)
-- **Reasoning With a Star: Heliophysics dataset and agentic benchmark** [![NeurIPS](https://img.shields.io/badge/NeurIPS-ML4PhysicalSciences-00A67E?style=flat-square)](https://neurips.cc/virtual/2025/loc/san-diego/123037)
+- **Reasoning With a Star: Heliophysics Dataset and Agentic Benchmark** [![NeurIPS](https://img.shields.io/badge/NeurIPS-ML4PhysicalSciences-00A67E?style=flat-square)](https://neurips.cc/virtual/2025/loc/san-diego/123037)
 - **Agentic AI for Near-Real-Time Ocean Hazard Assessment**
   [![NOAA](https://img.shields.io/badge/NOAA-AI%20Workshop-005DAA?style=flat-square)](https://www.noaa.gov/events/8th-noaa-ai-workshop-2026)
 - **Physics-Informed Convolutional Autoencoder for Solar-Wind and Space-Weather** [![NASA](https://img.shields.io/badge/NASA-Eddy%20Symposium-D97706?style=flat-square)](https://cpaess.ucar.edu/abstract-5th-eddy/physics-informed-convolutional-autoencoder-solar-wind-anomaly-detection-and-space)
-- **Telemetry and time-series anomaly detection for space missions**  [![arXiv](https://img.shields.io/badge/arXiv-2412.16375-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2412.16375)
+- **Satellite Telemetry and Time-series Anomaly Detection**  [![arXiv](https://img.shields.io/badge/arXiv-2412.16375-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2412.16375)
 
 ---
 
