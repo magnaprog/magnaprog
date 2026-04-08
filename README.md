@@ -14,7 +14,7 @@ I build **agentic AI** and solve complex **time-series** and **signal processing
 - **Reasoning With a Star: Heliophysics dataset and agentic benchmark** [![NeurIPS](https://img.shields.io/badge/NeurIPS-ML4PhysicalSciences-00A67E?style=flat-square)](https://neurips.cc/virtual/2025/loc/san-diego/123037)
 - **Agentic AI for Near-Real-Time Ocean Hazard Assessment**
   [![NOAA](https://img.shields.io/badge/NOAA-AI%20Workshop-005DAA?style=flat-square)](https://www.noaa.gov/events/8th-noaa-ai-workshop-2026)
-- **PISCES: Physics-Informed Convolutional Autoencoder for Solar-Wind Anomaly Detection and Space-Weather Early Warning** [![NASA](https://img.shields.io/badge/CPAESS-Eddy%20Symposium-D97706?style=flat-square)](https://cpaess.ucar.edu/abstract-5th-eddy/physics-informed-convolutional-autoencoder-solar-wind-anomaly-detection-and-space)
+- **PISCES: Physics-Informed Convolutional Autoencoder for Solar-Wind Anomaly Detection and Space-Weather Early Warning** [![NASA](https://img.shields.io/badge/NASA-Eddy%20Symposium-D97706?style=flat-square)](https://cpaess.ucar.edu/abstract-5th-eddy/physics-informed-convolutional-autoencoder-solar-wind-anomaly-detection-and-space)
 - **Telemetry and time-series anomaly detection for space missions**  [![arXiv](https://img.shields.io/badge/arXiv-2412.16375-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2412.16375)
 
 ---
