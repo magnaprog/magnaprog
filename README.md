@@ -10,6 +10,8 @@ I build **agentic AI** and solve complex **time-series** and **signal processing
 
 ---
 
+> **Note:** Many of my repositories are private due to research, collaboration, or organizational constraints. Recruiters and potential collaborators are welcome to contact me if they would like to learn more about my work, project scope, or technical contributions.
+
 ## Research Spotlight
 - **Agentic Orchestration System for Heliophysics Tasks** [![NeurIPS](https://img.shields.io/badge/NeurIPS-AI4Science-7B61FF?style=flat-square)](https://neurips.cc/virtual/2025/loc/san-diego/125788)
 - **Reasoning With a Star: Heliophysics Dataset and Agentic Benchmark** [![NeurIPS](https://img.shields.io/badge/NeurIPS-ML4PhysicalSciences-00A67E?style=flat-square)](https://neurips.cc/virtual/2025/loc/san-diego/123037)
