@@ -1,6 +1,6 @@
 # Welcome to Kevin Lee's GitHub Page
 
-I build **agentic AI** and solve complex **time-series** and **signal processing** problems for **NASA** and **Lockheed Martin** space and Earth science missions.
+I build **agentic AI** and solve complex **time-series** and **signal processing** problems for **NASA** and **Lockheed Martin** Space and Earth science missions.
 
 **Focus:** Agentic Orchestration, Quantitative Research, Variational Autoencoder, Scientific Reasoning, Anomaly Detection, State Estimation
 
