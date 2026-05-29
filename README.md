@@ -6,7 +6,7 @@ I build **agentic AI** and solve complex **time-series** and **signal processing
 
 **Tooling:** Python / MATLAB / C++ / R
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-percept--lee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/percept-lee/) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-uLh6KB8AAAAJ-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=uLh6KB8AAAAJ&hl=en&oi=sra) [![CV](https://img.shields.io/badge/CV-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-percept--lee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/percept-lee/) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-uLh6KB8AAAAJ-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=uLh6KB8AAAAJ&hl=en&oi=sra)
 
 ---
 
