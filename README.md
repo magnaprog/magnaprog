@@ -34,7 +34,7 @@ I build **agentic AI** and solve complex **time-series** and **signal processing
 ---
 
 ## Current Focus
-- Quant trading and research
 - Signal processing with AI/ML and traditional statistical learning algorithms
 - Agentic systems and platforms
+- Quant trading and research
 - Open to: research collabs and industry roles in AI/ML
