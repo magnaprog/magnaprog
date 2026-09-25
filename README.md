@@ -27,7 +27,7 @@ I build **agentic AI** and solve complex **time-series** and **signal processing
 ## Featured Projects
 | Project | Description | Link |
 |---|---|---|
-| PISCES: Physics-Informed Convolutional Autoencoder for Solar-Wind Anomaly Detection and Space-Weather Early Warning | Physics-Informed Machine Learning | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/magnaprog/PISCES) |
+| PISCES: Physics-Informed Solar-wind Convolutional autoEncoder for Space-weather Anomaly Detection and Early Warning | Physics-Informed Machine Learning | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/magnaprog/PISCES) |
 | Reasoning With A Star: Agentic benchmark for NASA's Heliophysics | Benchmark and Evaluation | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-FFCC4D?style=flat-square&logo=huggingface&logoColor=FF9D00)](https://huggingface.co/datasets/SpaceML/ReasoningWithAStar) |
 | Agentic AI for Near-Real-Time Ocean Hazard Assessment | Agentic System | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/magnaprog/Agentic-AI-for-Near-Real-Time-Ocean-Hazard-Assessment) |
 
