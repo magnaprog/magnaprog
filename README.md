@@ -30,8 +30,7 @@ I build **agentic AI** and solve complex **time-series** and **signal processing
 |---|---|---|
 | PISCES: Physics-Informed Solar-wind Convolutional autoEncoder for Space-weather Anomaly Detection and Early Warning | Physics-Informed Machine Learning | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/magnaprog/PISCES) |
 | CETUS: How Far Do Representations Trained on Earth Transfer to Cassini SAR of Titan? | Foundation Model Evaluation | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](http://github.com/magnaprog/CETUS) |
-(https://huggingface.co/datasets/SpaceML/ReasoningWithAStar) |
-| Reasoning With A Star: Agentic benchmark for NASA's Heliophysics | Benchmark and Evaluation | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-FFCC4D?style=flat-square&logo=huggingface&logoColor=FF9D00)]
+| Reasoning With A Star: Agentic benchmark for NASA's Heliophysics | Benchmark and Evaluation | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-FFCC4D?style=flat-square&logo=huggingface&logoColor=FF9D00)](https://huggingface.co/datasets/SpaceML/ReasoningWithAStar) |
 | Agentic AI for Near-Real-Time Ocean Hazard Assessment | Agentic System | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/magnaprog/Agentic-AI-for-Near-Real-Time-Ocean-Hazard-Assessment) |
 
 ---
